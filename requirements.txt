@@ -1,0 +1,7 @@
+
+tensorflow
+gradio
+Pillow
+joblib
+scikit-learn
+numpy
